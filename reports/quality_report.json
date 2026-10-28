@@ -1,0 +1,15 @@
+{
+    "input_rows": 11,
+    "clean_rows": 6,
+    "rejected_rows": 5,
+    "missing_values_by_column": {
+        "order_id": 0,
+        "customer": 0,
+        "product": 1,
+        "price": 1,
+        "quantity": 0
+    },
+    "duplicate_order_ids": 1,
+    "negative_prices": 1,
+    "invalid_quantities": 1
+}
